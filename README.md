@@ -84,7 +84,6 @@
 
 <!-- 
 ## 📊 My GitHub Data:
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 <div align="center">
   <img align="center" src="" />
