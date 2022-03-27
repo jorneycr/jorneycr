@@ -54,6 +54,8 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/>
+
 </p>
 
 ## ❤️ Let's get connected:
