@@ -34,6 +34,8 @@
  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=NestJS&logoColor=white" height="25px"/>
+
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
@@ -55,6 +57,8 @@
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0081CB?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25px"/>
+
 
 </p>
 
