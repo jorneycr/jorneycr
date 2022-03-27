@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `MERN Stack, Spring Boot`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
@@ -25,7 +25,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time learning technologies and improving my skills.
 
 ## 🛠️ Technologies and Tools I use:
 
