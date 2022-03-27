@@ -11,7 +11,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://jorneylm.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://jorneylm.github.io/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
