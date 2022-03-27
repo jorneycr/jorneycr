@@ -11,7 +11,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://jorneylm.github.io/)**
+- 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -67,7 +67,7 @@
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="https://jorneylm.github.io/" target="_blank"><img alt="Github" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
+  <a href="https://jorneylopez.github.io/" target="_blank"><img alt="Github" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
   <a href="https://www.linkedin.com/in/jorneylm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
   <a href="https://www.instagram.com/jorneylm/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 
