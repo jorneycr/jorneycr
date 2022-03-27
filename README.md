@@ -80,7 +80,7 @@
 
 ## 🤝 Support Me:
 
-<a href="#" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 <!-- 
 ## 📊 My GitHub Data:
