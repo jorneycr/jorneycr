@@ -91,7 +91,7 @@
 </div>
 -->
 
-### Activities and Information GITHUB:
+## Activities and Information GITHUB:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/jorneylopez?tab=repositories)
 [![Top Commit](https://github-readme-stats.vercel.app/api?username=jorneylopez&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/jorneylopez?tab=repositories)
