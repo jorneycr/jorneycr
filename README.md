@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./programming.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
