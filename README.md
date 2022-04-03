@@ -19,7 +19,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me, If you need help :sweat_smile:
+- 💬 Ask me, If you need help 🚀
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
