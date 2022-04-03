@@ -93,7 +93,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jorneylopez&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorneylopez&" alt="jorneylopez" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10" alt="jorneylopez" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div>
 
 
