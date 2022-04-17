@@ -4,6 +4,8 @@
   <img src ="./banner.png" />
 </div>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
+
 
  <br/>
 
