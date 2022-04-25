@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Doing the world a better place`.
 
 - 🌱 I’m currently learning `MERN Stack, Spring Boot`
 
