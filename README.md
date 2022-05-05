@@ -14,9 +14,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
-- 🔭 I’m currently working on `Doing the world a better place`.
+- 🔭 I’m currently working on `MERN Stack`.
 
-- 🌱 I’m currently learning `MERN Stack, Spring Boot`
+- 🌱 I’m currently learning `Spring Boot`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
