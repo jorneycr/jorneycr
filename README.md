@@ -14,7 +14,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
-- 🔭 I’m currently working on `MERN Stack`.
+- 🔭 I’m currently working on `MERN Stack`
 
 - 🌱 I’m currently learning `Spring Boot`
 
@@ -39,13 +39,13 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
 <img alt="Spring boot" src="https://img.shields.io/badge/Spring boot-white?style=for-the-badge&logo=Spring boot&logoColor=green" height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<!-- <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/> -->
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/> 
+<!-- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>  -->
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-430098?style=flat-square&logo=Jira&logoColor=white" height="25px"/>
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon Web Services-white?style=for-the-badge&logo=Amazon&logoColor=Black" height="25px"/>
