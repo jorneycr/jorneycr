@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on `MERN Stack`
 
-- 🌱 I’m currently learning `Spring Boot`
+- 🌱 I’m currently learning `Spring Boot and NestJS`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
