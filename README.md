@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/jorneylopez/jorneylopez/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a>
+<a href="https://github.com/jorneylopez/jorneylopez/issues/1#issuecomment-new"><img src="guestbook.svg"></a>
 </div>
 
 
