@@ -97,5 +97,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div>
 
+<div align="center">
+<a href="https://github.com/jorneylopez/jorneylopez/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a>
+</div>
+
 
   
