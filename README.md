@@ -1,11 +1,10 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Software Engineer</h1>
+<!-- <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Software Engineer</h1> -->
 <!-- 
 <div align="center">
   <img src ="./banner.png" />
 </div>
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
- <br/>
+# :octocat: Hello, I'm Jorney Lopez
 
 ## 👨🏻‍💻 About Me:
 
@@ -89,13 +88,21 @@
 
 -->
 
+## GitHub Trophies
+
+![Github trophies](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=dracula)
+
 ## Activities and Information GITHUB:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jorneylopez&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorneylopez&" alt="jorneylopez" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorneylopez&show_icons=true" alt="jorneylopez" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div>
+
+## Total Visitors
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
 
 ## Guestbook:
 
