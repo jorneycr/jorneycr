@@ -78,21 +78,12 @@
 
 <a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-<!-- 
-## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="center" src="" />
-  <img align="center" src="" alt="" />
-</div>
-
--->
-
-## GitHub Trophies
+## 📊 GitHub Trophies
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=dracula)
 
-## Activities and Information GITHUB:
+## 📊 Activities and Information GITHUB:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jorneylopez&show_icons=true" />
@@ -100,20 +91,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div>
 
-## Total Visitors
+## 📊 Total Visitors
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
-
+<!-- 
 ## Guestbook:
 
 <div align="center">
 
 <a href="https://github.com/jorneylopez/jorneylopez/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a>
-</div>
+</div> -->
 
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
+<!-- | Name | Date | Message | -->
+<!-- |---|---|---| -->
 <!-- | <a href="https://github.com/Sanidhya-Sharma"><img width="24" src="https://avatars.githubusercontent.com/u/56713184?s=24&u=ded563e1a11f93b924c7960018d9c9bde13619d8&v=4" alt="Sanidhya-Sharma" /> Sanidhya-Sharma</a> |6/12/2022, 9:12:45 AM|Amazing !|
 | <a href="https://github.com/psylopunk"><img width="24" src="https://avatars.githubusercontent.com/u/61873704?s=24&u=a22e1ef404c5949af9053d28752d823c5641d0a4&v=4" alt="psylopunk" /> psylopunk</a> |6/12/2022, 7:56:35 AM|Wow|
 | <a href="https://github.com/thienlehts"><img width="24" src="https://avatars.githubusercontent.com/u/105044325?s=24&u=07edd686783646301ec6c073c73ab87ce81108ca&v=4" alt="thienlehts" /> thienlehts</a> |6/8/2022, 7:23:27 AM|awesome!!|
