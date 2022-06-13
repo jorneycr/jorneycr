@@ -84,12 +84,13 @@
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=dracula)
 
 ## 📊 Activities and Information GITHUB:
-
-<div align="center">
+![Github stats](https://github-readme-stats.vercel.app/api?username=jorneylopez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&layout=compact&theme=gruvbox&langs_count=6)
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jorneylopez&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorneylopez&show_icons=true" alt="jorneylopez" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
-</div>
+</div> -->
 
 ## 📊 Total Visitors
 
