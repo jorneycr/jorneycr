@@ -60,29 +60,6 @@
 
 </p>
 
-## ❤️ Let's get connected:
-
-<p>
-  <a href="https://jorneylopez.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
-  <a href="https://www.linkedin.com/in/jorneylopez/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-<!--   <a href="https://www.instagram.com/#" target="_blank"><img alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
- -->
-  <!-- 
-  <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
-  <a href="#" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>
--->
-  
-</p>
-
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
-
-## 📊 GitHub Trophies
-
-![Github trophies](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=dracula)
-
 ## 📊 Activities and Information GITHUB:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jorneylopez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&layout=compact&theme=gruvbox&langs_count=6)
@@ -91,6 +68,25 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorneylopez&show_icons=true" alt="jorneylopez" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div> -->
+
+## 📊 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/jorneylopez/github-profile-trophy)
+
+
+## ❤️ Let's get connected:
+
+<p>
+  <a href="https://jorneylopez.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
+  <a href="https://www.linkedin.com/in/jorneylopez/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<!--   <a href="https://www.instagram.com/#" target="_blank"><img alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+ -->
+  
+</p>
+
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
 
 ## 📊 Total Visitors
 
