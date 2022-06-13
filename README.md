@@ -69,7 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&show_icons=true&layout=compact&langs_count=10" alt="jorneylopez" />
 </div> -->
 
-## 📊 GitHub Trophies
+## 📊 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/jorneylopez/github-profile-trophy)
 
 
@@ -88,7 +88,7 @@
 <a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
-## 📊 Total Visitors
+## 📊 Total Visitors:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
 <!-- 
