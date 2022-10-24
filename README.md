@@ -31,6 +31,7 @@
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=red"  height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=red"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
