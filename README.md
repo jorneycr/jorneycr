@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `MERN Stack`
 
-- 🌱 I’m currently learning `Spring Boot, and Python`
+- 🌱 I’m currently learning `Java, Spring Boot, Python, and Django`
 
 - 💬 Ask me, If you need help 🚀
 
