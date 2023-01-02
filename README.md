@@ -58,7 +58,8 @@
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=red"  height="25px"/>
+<img alt="Java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite"  height="25px"/>
+  
 <img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=red"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
