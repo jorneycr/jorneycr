@@ -8,8 +8,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./programming.gif" height="290px" align="right" />
-<br>
+<img  src="./programming.gif" height="270px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
