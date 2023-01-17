@@ -53,6 +53,7 @@
   </div>
 </div>
 <br>
+https://github.com/Ileriayo/markdown-badges#badges
 <br> -->
 
 <p>
@@ -74,6 +75,11 @@
   
 <img alt="Java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite"  height="25px"/>
 <img alt="Spring boot" src="https://img.shields.io/badge/Spring boot-white?style=for-the-badge&logo=Spring boot&logoColor=green" height="25px"/>
+  
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px"/>
+<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25px"/>
+  
+  
   
 <img alt="Python" src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=red"  height="25px"/>
 
