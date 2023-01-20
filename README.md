@@ -21,7 +21,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time riding bike, doing exercise twice a week, enjoy with my family and visiting my parents.
+- ⚡ Fun fact: I waste most of my time riding bike, doing exercise 3 times a week, enjoy with my family and visiting my parents.
 
 ## 🛠️ Technologies and Tools I use:
 
