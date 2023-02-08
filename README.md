@@ -13,7 +13,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
 
-- 🔭 I’m currently working on `MERN and MEAN Stack`
+- 🔭 I’m currently working on `MERN Stack`
 
 - 🌱 I’m currently learning `Java, Spring Boot, C# and .Net Core`
 
