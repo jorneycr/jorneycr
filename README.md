@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `MERN Stack`
 
-- 🌱 I’m currently learning `Java, Spring Boot, C# and .Net Core`
+- 🌱 I’m currently learning `C# and .Net Core`
 
 - 💬 Ask me, If you need help 🚀
 
