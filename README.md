@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `MERN Stack`
 
-- 🌱 I’m currently learning `C#, .Net Core using Web API's and MVC`
+- 🌱 I’m currently learning `C#, .Net Core building Web API's`
 
 - 💬 Ask me, If you need help 🚀
 
