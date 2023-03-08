@@ -5,7 +5,7 @@
 </div>
 
 -->
-# :octocat: Hello, I am Jorney Lopez
+# :octocat: Hello, I am Daniel Lopez
 
 ## 👨🏻‍💻 About Me:
 
@@ -153,19 +153,19 @@ https://github.com/Ileriayo/markdown-badges#badges
 
 <!-- ## 📊 Information GITHUB:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jorneylopez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5) -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=daniellopez0426&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5) -->
 
 
 ## 📊 GitHub Programing Languages and Trophies:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneylopez&layout=compact&theme=gruvbox&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jorneylopez&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneylopez/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez0426&layout=compact&theme=gruvbox&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daniellopez0426&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneylopez/github-profile-trophy)
 
 
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="https://jorneylopez.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
-  <a href="https://www.linkedin.com/in/jorneylopez/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://daniellopez0426.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
+  <a href="https://www.linkedin.com/in/daniellopez0426/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 <!--   <a href="https://www.instagram.com/#" target="_blank"><img alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
  -->
   
@@ -178,5 +178,5 @@ https://github.com/Ileriayo/markdown-badges#badges
 
 ## 📊 Total Visitors:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellopez0426&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
   
