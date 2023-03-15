@@ -15,13 +15,12 @@
 
 - 🔭 I’m currently working on `MERN Stack`
 
-- 🌱 I’m currently learning `C#, .Net Core building MVC and Web API's`
+- 🌱 I’m currently learning `C#, .Net Core building MVC and API's`
 
 - 💬 Ask me, If you need help 🚀
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time riding bike, doing exercise 3 times a week, and enjoy with my family.
 
 ## 🛠️ Technologies and Tools I use:
 
