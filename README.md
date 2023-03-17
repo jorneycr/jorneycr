@@ -11,7 +11,7 @@
 
 <img  src="./programming.gif" height="270px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://jorneylopez.github.io/)**
+- 🙋‍♂️ All about me is at **[My Website](https://daniellopez0426.github.io/)**
 
 - 🔭 I’m currently working on `MERN Stack`
 
