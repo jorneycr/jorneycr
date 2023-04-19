@@ -11,7 +11,7 @@
 
 <img  src="./programming.gif" height="270px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://daniellopez0426.github.io/)**
+- 🙋‍♂️ All about me is at **[My Website](https://jorneycr.github.io/)**
 
 - 🔭 I’m currently working on `MERN Stack`
 
@@ -125,8 +125,8 @@ https://github.com/Ileriayo/markdown-badges#badges
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=NestJS&logoColor=white" height="25px"/>
   
-<!-- <img alt="Java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite"  height="25px"/>
-<img alt="Spring boot" src="https://img.shields.io/badge/Spring boot-white?style=for-the-badge&logo=Spring boot&logoColor=green" height="25px"/> -->
+<img alt="Java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite"  height="25px"/>
+<img alt="Spring boot" src="https://img.shields.io/badge/Spring boot-white?style=for-the-badge&logo=Spring boot&logoColor=green" height="25px"/>
   
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25px"/>
 <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="25px"/>
@@ -155,15 +155,15 @@ https://github.com/Ileriayo/markdown-badges#badges
 
 
 ## 📊 GitHub Programing Languages and Trophies:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez0426&layout=compact&theme=gruvbox&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=daniellopez0426&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneylopez/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneycr/github-profile-trophy)
 
 
 ## ❤️ Let's get connected:
 
 <p>
-  <a href="https://daniellopez0426.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
-  <a href="https://www.linkedin.com/in/daniellopez0426/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://jorneycr.github.io/" target="_blank"><img alt="Github" target="_blank" src="https://jorneylm.netlify.app/favicon.ico" height="30px" /></a>
+  <a href="https://www.linkedin.com/in/jorneycr/" target="_blank"><img alt="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 <!--   <a href="https://www.instagram.com/#" target="_blank"><img alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
  -->
   
