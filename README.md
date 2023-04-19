@@ -5,7 +5,7 @@
 </div>
 
 -->
-# :octocat: Hi, I'm Jorney Daniel Lopez
+# :octocat: Hi, I'm Jorney Lopez
 
 ## 👨🏻‍💻 About Me:
 
