@@ -11,7 +11,7 @@
 
 <img  src="./programming.gif" height="270px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://jorneycr.github.io/)**
+- 🙋‍♂️ All about me is at <a href="https://jorneycr.github.io/" target="_blank">**My Website**</a>
 
 - 🔭 I’m currently working on `MERN Stack`
 
