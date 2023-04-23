@@ -176,5 +176,5 @@ https://github.com/Ileriayo/markdown-badges#badges
 
 ## 📊 Total Visitors:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneycr&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneylopez&label=Profile%20views&color=0e75b6&style=flat" alt="jorneylopez" /> </p>
   
