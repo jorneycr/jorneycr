@@ -155,7 +155,7 @@ https://github.com/Ileriayo/markdown-badges#badges
 
 
 ## 📊 GitHub Programing Languages and Trophies:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=6)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneycr/github-profile-trophy)
 
 
