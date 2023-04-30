@@ -21,6 +21,11 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
+## 👨🏻‍💻 Certification:
+
+<a href="https://www.freecodecamp.org/certification/fccac91bb0e-039e-4d04-972e-51156e8d5ce0/javascript-algorithms-and-data-structures" target="_blank">**JavaScript Algorithms and Data Structures**</a>
+
+
 ## 🛠️ Technologies and Tools I use:
 
 
