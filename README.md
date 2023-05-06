@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning more about `Java and Spring Boot`
 
-- 💬 Ask me, If you need help 🚀
+<!-- - 💬 Ask me, If you need help 🚀 -->
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
