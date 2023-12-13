@@ -65,10 +65,10 @@
 <!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/> -->
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0081CB?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25px"/>
+
+<!-- 
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<!-- 
-
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px"/>
 <img alt="gitlat" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="25px"/> -->
 <!-- <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25px"/> -->
