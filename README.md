@@ -13,9 +13,9 @@
 
 - 🙋‍♂️ All about me is at <a href="https://jorneycr.github.io/" target="_blank">**My Website**</a>
 
-- 🔭 I’m currently working on `MERN Stack`
+- 🔭 I worked on `MERN Stack` for two years
 
-- 🌱 I’m currently learning more about `Java and Spring Boot`
+- 🌱 I’m currently working with `Java and Spring Boot` and going deeper
 
 <!-- - 💬 Ask me, If you need help 🚀 -->
 
