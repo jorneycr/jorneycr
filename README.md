@@ -77,19 +77,24 @@
 
 <!-- ## 📊 Information GITHUB:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=daniellopez0426&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5) -->
+ -->
+## 📊 Trophies:
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneycr/github-profile-trophy) 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jorneycr&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+
+-->
+
+<div align="center">
+<a href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+</div>
 
 
 ## 📊 GitHub Programing Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=20)
 
-## 📊 Trophies:
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,Followers,PullRequest,Issues&row=2&column=3)](https://github.com/jorneycr/github-profile-trophy) -->
-
-<div align="center">
-<a href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
-</div>
 
 ## ❤️ Let's get connected:
 
