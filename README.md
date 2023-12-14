@@ -84,6 +84,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jorneycr&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=20)
+
 -->
 
 <div align="center">
@@ -91,8 +93,15 @@
 </div>
 
 
-## 📊 GitHub Programing Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&theme=gruvbox&langs_count=20)
+## 📊 GitHub Programing Languages and Coding Activity:
+
+<div align="center">
+  <a href="https://github.com/jorneycr">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&layout=compact&langs_count=8&theme=dracula"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jorneycr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div> 
+
 
 
 
