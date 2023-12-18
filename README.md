@@ -61,8 +61,10 @@
 
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white" height="25px"/>
 <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-F05032?style=flat-square&logo=DynamoDB&logoColor=white" height="25px"/>
-<!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/> 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/> -->
+
+
+<!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>  -->
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="25px"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0081CB?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25px"/>
 
 <!-- 
