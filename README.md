@@ -15,9 +15,11 @@
 
 - 🔭 I worked on `MERN Stack` for 3 years
 
-- 🌱 I’m currently working with `Java and Spring Boot` and going deeper
+- 👨🏻‍💻 I’m currently working with `Java and Spring Boot` and going deeper
 
-<!-- - 💬 Ask me, If you need help 🚀 -->
+- 🌱 I’m learning `React Native`
+
+- 💬 Ask me, If you need help 🚀 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
