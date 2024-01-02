@@ -19,8 +19,6 @@
 
 - 🌱 I’m learning `React Native`
 
-- 💬 Ask me, If you need help 🚀 
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 ## 👨🏻‍💻 Certification:
