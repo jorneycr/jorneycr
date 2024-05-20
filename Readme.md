@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
 <img src="https://img.shields.io/badge/Programming-Java%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+<img src="https://img.shields.io/badge/Language-English%2C%20Spanish-blue" />
 </p><br><br><br>
 
 ## 🎓📚 Skills and Tools
@@ -61,42 +61,34 @@
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
     <tr> 
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>SQLite</td>
-      <td align="center" width=110>Ba$h</td>
-      <td align="center" width=110>Markdown</td>
+      <td align="center" width=110>OracleDB</td>
+      <td align="center" width=110>DynamoDB</td>
+      <td align="center" width=110>Python</td>
     </tr>
   </table>
 
   <table>
     <thead>
       <tr>
-        <th colspan="3">Frameworks & Libraries </th>
-        <th colspan="3">Agile Methodologies</th>
+        <th colspan="6">Frameworks & Libraries </th>
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
-      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
-      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
-      <tr align="center"> 
-        <td align="center" width=110>Angular</td>
-        <td align="center" width=110>Django</td>
-        <td align="center" width=110>Flask</td>
-        <td align="center" width=110>Scrum</td>
-        <td align="center" width=110>T.D.D.</td>
-      </tr>
-      <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
       <tr align="center"> 
+        <td align="center" width=110>React</td>
+        <td align="center" width=110>Node</td>
+        <td align="center" width=110>Spring</td>
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>JQuery</td>
       </tr>
@@ -136,15 +128,13 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
     <tr> 
-      <td align="center" width=110>Windows</td>
+      <td align="center" width=110>MacOS</td>
       <td align="center" width=110>Linux</td>
-      <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Debian</td>
+      <td align="center" width=110>Windows</td>
     </tr>
   </table>
 </div>
@@ -189,7 +179,7 @@
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+            <img align="right" alt="Developer Jorney Lopez" src="code.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
@@ -197,7 +187,8 @@
 ### The Pace:
 
 <div>  
-<img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15&exclude_repo=PullRequest" /> -->
+<a href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 
 </div>
 
