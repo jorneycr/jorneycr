@@ -25,35 +25,18 @@
 <a href="https://www.linkedin.com/in/jorneycr/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://www.hackerrank.com/jorneycr"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 
-<a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+<!-- <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp; -->
 </p><br>
 
 <!-- BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
-<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
-<img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
+<img src="https://img.shields.io/badge/Programming-Java%2C%20JavaScript-blue" />
 <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
-</p><br>
+</p><br><br><br>
 
-
-<div align="center">
-
-## 🎓📚 Education 
-![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
-  ![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
- ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
- 
- ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
-
-</div>
-
-
-
-</h3> <br><br>
-
-## Skills and Tools
+## 🎓📚 Skills and Tools
 <div align="center">
   <table>
     <thead>
