@@ -45,14 +45,14 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Python</td>
+      <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>Typescript</td>
       <td align="center" width=110>CSS</td>
@@ -109,46 +109,24 @@
     </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Heroku</td>
       <td align="center" width=110>Figma</td>
       <td align="center" width=110>Git</td>
-      <td align="center" width=110>GitHub</td>
-      <td align="center" width=110>Trello</td>
+      <td align="center" width=110>Docker</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>VSCode</td>
-      <td align="center" width=110>Pycharm</td>
       <td align="center" width=110>IntelliJ</td>
-      <td align="center" width=110>Vim</td>
-      <td align="center" width=110>Google Cloud</td>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=110>Docker</td>
-      <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>Jupyter</td>
       <td align="center" width=110>Jira</td>
-      <td align="center" width=110>CodePen</td>
     </tr>
   </table>
   <table>
@@ -223,8 +201,5 @@
 
 </div>
 
-## 📊 Total Visitors:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorneycr&label=Profile%20views&color=0e75b6&style=flat" alt="jorneycr" /> </p>
 
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/jorneycr/jorneycr/) !
