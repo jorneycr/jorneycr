@@ -1,4 +1,4 @@
-# JORNEY LOPEZ (jorneycr)
+# Hello! Welcome to my profile.
 
 
 <div align="center">
@@ -12,8 +12,7 @@
 
 <!-- GREETING  -->
 <h3 align="center">
-  Hello! Welcome to my profile.<br> *****
-             
+              
 
 <p align="center">
   <a href="https://github.com/jorneycr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
@@ -34,7 +33,7 @@
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
 <img src="https://img.shields.io/badge/Programming-Java%2C%20JavaScript-blue" />
 <img src="https://img.shields.io/badge/Language-English%2C%20Spanish-blue" />
-</p><br><br><br>
+</p><br>
 
 ## 🎓📚 Skills and Tools
 <div align="center">
@@ -104,21 +103,15 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Figma</td>
       <td align="center" width=110>Git</td>
       <td align="center" width=110>Docker</td>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-    </tr>
-    <tr> 
       <td align="center" width=110>VSCode</td>
       <td align="center" width=110>IntelliJ</td>
-      <td align="center" width=110>Jira</td>
     </tr>
   </table>
   <table>
@@ -139,28 +132,24 @@
   </table>
 </div>
 
-
-
-
-
 ## 📊 GitHub Statistics
 <table>
 <tr>
-<td>
+<td align="center">
 <a href="https://github.com/jorneycr/jorneycr">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorneycr&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
-<td>
+<td align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
 
 <tr>
-<td>
+<td align="center">
             <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorneycr"/>
 </td>
-<td>
+<td align="center">
             <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorneycr"/>
 </td>
 </tr>
@@ -177,6 +166,9 @@
 
 </td>
 <td align="center">
+             🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="80px" width="200px"></a> 
 <p align="center">
 </p>
             <img align="right" alt="Developer Jorney Lopez" src="code.gif" width="350" height="190" />
@@ -184,7 +176,9 @@
 </tr>
 </table>
 
-### The Pace:
+<br>
+
+## 📊 Trophies:
 
 <div>  
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15&exclude_repo=PullRequest" /> -->
