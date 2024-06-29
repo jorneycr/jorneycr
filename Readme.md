@@ -23,7 +23,7 @@
 <!-- <a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/jorneycr/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://www.hackerrank.com/jorneycr"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
-
+<a href="https://jorneycr.github.io/"><img src="https://img.shields.io/badge/WebSite-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=38B000" alt="Chrome" /></a>
 <!-- <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp; -->
 </p><br>
 
