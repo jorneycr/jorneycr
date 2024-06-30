@@ -5,7 +5,9 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-            <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+<!--             <img src="https://img.icons8.com/color/30/000000/star--v1.png"/> -->
  </div><br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorneycr&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="jorneycr" /> </p>
 
@@ -15,7 +17,7 @@
               
 
 <p align="center">
-  <a href="https://github.com/jorneycr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://jorneycr.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Visit%20My%20Personal%20Website;%20Follow%20if%20you%20find%20me%20cool!;I%20am%20ready%20for%20collaboration.;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
