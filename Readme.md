@@ -17,15 +17,15 @@
               
 
 <p align="center">
-  <a href="https://jorneycr.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Visit%20My%20Personal%20Website;%20Follow%20if%20you%20find%20me%20cool!;I%20am%20ready%20for%20collaboration.;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a target="_blank" href="https://jorneycr.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Visit%20My%20Personal%20Website;%20Follow%20if%20you%20find%20me%20cool!;I%20am%20ready%20for%20collaboration.;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
 <!-- <a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/jorneycr/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://www.hackerrank.com/jorneycr"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
-<a href="https://jorneycr.github.io/"><img src="https://img.shields.io/badge/WebSite-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=38B000" alt="Chrome" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/jorneycr/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a target="_blank" href="https://www.hackerrank.com/jorneycr"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
+<a target="_blank" href="https://jorneycr.github.io/"><img src="https://img.shields.io/badge/WebSite-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=38B000" alt="Chrome" /></a>
 <!-- <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp; -->
 </p><br>
 
@@ -200,7 +200,7 @@
 
 <div>  
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15&exclude_repo=PullRequest" /> -->
-<a href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a target="_blank" href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 
 </div>
 
