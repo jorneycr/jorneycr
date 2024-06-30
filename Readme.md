@@ -161,16 +161,16 @@
 
 <tr>
 <td align="center">
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorneycr"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorneycr&theme=highcontrast"/>
 </td>
 <td align="center">
-            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorneycr"/>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorneycr&theme=highcontrast"/>
 </td>
 </tr>
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/jorneycr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/jorneycr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=9b9b9b&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
 
