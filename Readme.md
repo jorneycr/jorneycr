@@ -148,7 +148,7 @@
 
 ## 📊 GitHub Statistics
 <table>
-<tr>
+<!-- <tr>
 <td align="center">
 <a href="https://github.com/jorneycr/jorneycr">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorneycr&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
@@ -157,7 +157,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&theme=highcontrast&layout=compact" />
   </a>
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td align="center">
@@ -180,9 +180,11 @@
 
 </td>
 <td align="center">
-             🤝 Support Me:
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&theme=highcontrast&layout=compact" />
+<!--              🤝 Support Me: -->
 
-<a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="80px" width="200px"></a> 
+<!-- <a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="80px" width="200px"></a>  -->
+</td>
 <p align="center">
 </p>
             <img align="right" alt="Developer Jorney Lopez" src="code.gif" width="350" height="190" />
