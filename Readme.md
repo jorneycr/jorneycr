@@ -33,7 +33,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
-<img src="https://img.shields.io/badge/Programming-Java%2C%20JavaScript-blue" />
+<img src="https://img.shields.io/badge/Programming-Java%2C%20Spring Boot%2C%20JavaScript%2C%20React.js%2C%20Node.js-blue" />
 <img src="https://img.shields.io/badge/Language-English%2C%20Spanish-blue" />
 </p><br>
 
