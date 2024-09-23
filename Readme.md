@@ -104,7 +104,6 @@
         <td align="center" width=110>Cypress</td>
         <td align="center" width=110>Express</td>
         <td align="center" width=110>NestJS</td>
-        <td align="center" width=110>NextJS</td>
       </tr>
     </tr>
   </table>
