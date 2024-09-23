@@ -99,7 +99,6 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Jest</td>
         <td align="center" width=110>Cypress</td>
