@@ -12,7 +12,6 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jorneycr&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="jorneycr" /> </p>
 
 
-<!-- GREETING 
 <h3 align="center">
               
 
@@ -26,7 +25,7 @@
 <a target="_blank" href="https://leetcode.com/u/jorneycr/"><img src="https://img.shields.io/badge/leetcode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 <a target="_blank" href="https://www.hackerrank.com/jorneycr"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
 <a target="_blank" href="https://jorneycr.github.io/"><img src="https://img.shields.io/badge/WebSite-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=38B000" alt="Chrome" /></a>
- -->
+ 
 <!-- <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp; -->
 </p>
 
