@@ -50,14 +50,12 @@
     <tr>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Java</td>
       <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
     </tr>
@@ -66,13 +64,11 @@
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
     <tr> 
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>OracleDB</td>
       <td align="center" width=110>DynamoDB</td>
-      <td align="center" width=110>Python</td>
     </tr>
   </table>
 
@@ -86,24 +82,20 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>React</td>
         <td align="center" width=110>Node</td>
         <td align="center" width=110>Spring</td>
-        <td align="center" width=110>JQuery</td>
       </tr>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Jest</td>
         <td align="center" width=110>Cypress</td>
         <td align="center" width=110>Express</td>
-        <td align="center" width=110>NestJS</td>
       </tr>
     </tr>
   </table>
@@ -114,14 +106,12 @@
     </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Figma</td>
       <td align="center" width=110>Git</td>
       <td align="center" width=110>Docker</td>
       <td align="center" width=110>VSCode</td>
