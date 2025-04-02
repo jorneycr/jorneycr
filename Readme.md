@@ -81,21 +81,21 @@
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
+      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>React</td>
         <td align="center" width=110>Node</td>
-        <td align="center" width=110>Spring</td>
+        <td align="center" width=113>Spring Boot</td>
       </tr>
     </tr>
     <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
+      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </td>
       <tr align="center"> 
-        <td align="center" width=110>Jest</td>
-        <td align="center" width=110>Cypress</td>
-        <td align="center" width=110>Express</td>
+        <td align="center" width=110>Next</td>
+        <td align="center" width=110>Angular</td>
+        <td align="center" width=113>Jest</td>
       </tr>
     </tr>
   </table>
