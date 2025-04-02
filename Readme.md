@@ -118,22 +118,6 @@
       <td align="center" width=110>IntelliJ</td>
     </tr>
   </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Operating Systems</th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-    <tr> 
-      <td align="center" width=110>MacOS</td>
-      <td align="center" width=110>Linux</td>
-      <td align="center" width=110>Windows</td>
-    </tr>
-  </table>
 </div>
 
 ## 📊 GitHub Statistics
