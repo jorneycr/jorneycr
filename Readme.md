@@ -44,7 +44,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="7">Languages, Frameworks & Libraries</th>
       </tr>
     </thead>
     <tr>
@@ -61,12 +61,35 @@
       <td align="center" width=110>CSS</td>
       <td align="center" width=110>HTML</td>
     </tr>
-    <tr>
+       <tr>
+      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
+      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/> </td>
+   </tr>
+   <tr align="center"> 
+        <td align="center" width=113>Spring Boot</td>
+        <td align="center" width=110>React</td>
+        <td align="center" width=110>Node</td>
+        <td align="center" width=110>Next</td>
+        <td align="center" width=110>Angular</td>
+    </tr>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="6">Databases </th>
+      </tr>
+    </thead>
+               <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> </td>
+    </tr>
     <tr> 
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>PostgreSQL</td>
@@ -74,34 +97,7 @@
       <td align="center" width=110>DynamoDB</td>
       <td align="center" width=110>MongoDB</td>
     </tr>
-  </table>
 
-  <table>
-    <thead>
-      <tr>
-        <th colspan="6">Frameworks & Libraries </th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/nodejs/nodejs-original.svg"/> </td>
-      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>React</td>
-        <td align="center" width=110>Node</td>
-        <td align="center" width=113>Spring Boot</td>
-      </tr>
-    </tr>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
-      <td align="center" width=113> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/> </td>
-      <tr align="center"> 
-        <td align="center" width=110>Next</td>
-        <td align="center" width=110>Angular</td>
-        <td align="center" width=113>Jest</td>
-      </tr>
-    </tr>
   </table>
   <table>
     <thead>
