@@ -1,4 +1,4 @@
-# Hello! Welcome to my profile.
+# Hello! Welcome to my profile, I'm Jorney Lopez
 
 
 <div align="center">
