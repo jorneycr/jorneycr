@@ -1,4 +1,5 @@
-# Hello! Welcome to my profile, I'm Jorney Lopez
+# 👋 Hello! Welcome to my profile
+I'm Jorney Lopez, a passionate Software Engineer with over 5 years of experience working in large-scale companies across various tech stacks. I thrive on building reliable, scalable, and high-performance software solutions. My background spans frontend, backend, and full-stack development, always with a strong focus on clean code, performance optimization, and best practices.
 
 
 <div align="center">
