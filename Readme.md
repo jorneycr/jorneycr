@@ -150,7 +150,7 @@ I'm Jorney Lopez, a passionate Software Engineer with over 5 years of experience
 <td align="center">
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorneycr&theme=highcontrast&layout=compa")](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorneycr&theme=highcontrast&layout=compa")](https://git.io/streak-stats) 
 
 
 </td>
