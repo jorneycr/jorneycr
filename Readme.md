@@ -122,7 +122,7 @@ I'm Jorney Lopez, a passionate Software Engineer with over 5 years of experience
 </div>
 
 ## 📊 GitHub Statistics
-<table>
+<table align="center">
 <!-- <tr>
 <td align="center">
 <a href="https://github.com/jorneycr/jorneycr">
