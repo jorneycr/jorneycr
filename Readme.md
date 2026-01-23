@@ -1,5 +1,10 @@
 # 👋 Hello! Welcome to my profile
-I'm Jorney Lopez, a passionate Software Engineer with over 6 years of experience working in large-scale companies across various tech stacks. I thrive on building reliable, scalable, and high-performance software solutions. My background spans frontend, backend, and full-stack development, always with a strong focus on clean code, performance optimization, and best practices.
+Software Engineer with over 6 years of professional experience building end-user applications and handling large-scale projects.
+Proficient in both backend (Java, Spring Framework, Spring Boot, Node.js) and frontend (HTML, CSS, JavaScript, React)
+technologies Adept at optimizing software performance, implementing new features, debugging complex issues, and ensuring
+high code quality through comprehensive unit and integration tests. Experienced in developing RESTful APIs to enable seamless
+frontend-backend integrations and ensure efficient communication between systems. Well-versed in implementing secure coding
+practices aligned with the OWASP Top Ten, proactively addressing vulnerabilities and ensuring robust application security
 
 
 <div align="center">
