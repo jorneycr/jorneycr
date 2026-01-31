@@ -4,7 +4,7 @@ Proficient in both backend (Java, Spring Framework, Spring Boot, Node.js) and fr
 technologies Adept at optimizing software performance, implementing new features, debugging complex issues, and ensuring
 high code quality through comprehensive unit and integration tests. Experienced in developing RESTful APIs to enable seamless
 frontend-backend integrations and ensure efficient communication between systems. Well-versed in implementing secure coding
-practices aligned with the OWASP Top Ten, proactively addressing vulnerabilities and ensuring robust application security
+practices aligned with the OWASP Top Ten, proactively addressing vulnerabilities and ensuring robust application security.
 
 
 <div align="center">
