@@ -167,15 +167,25 @@ code quality through comprehensive unit and integration tests.
 
 <br>
 
-## 📊 Trophies:
+---
 
-<div>  
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15&exclude_repo=PullRequest" /> -->
-<a href="https://github.com/jorneycr">
-  <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1" width="100%" alt="jorneycr trophy stats" />
-</a>
+## 🏆 GitHub Trophies
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues" alt="Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorneycr/jorneycr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorneycr/jorneycr/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jorneycr/jorneycr/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/jorneycr/jorneycr/) !
