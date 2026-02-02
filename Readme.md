@@ -153,15 +153,7 @@ code quality through comprehensive unit and integration tests.
 <tr>
         <th colspan="7"><a href="https://github.com/jorneycr/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=9b9b9b&vCenter=true&size=22"></a></th>
       </tr>
-<td align="center">
 
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorneycr&theme=highcontrast&layout=compa")](https://git.io/streak-stats) 
-
-
-</td>
-<td align="center">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorneycr&theme=highcontrast&layout=compact" />
 <!--              🤝 Support Me: -->
 
 <!-- <a href="https://www.buymeacoffee.com/jorneytechq" target="_blank"><img src="./coffee.png" alt="Buy Me A Coffee" height="80px" width="200px"></a>  -->
@@ -179,7 +171,9 @@ code quality through comprehensive unit and integration tests.
 
 <div>  
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&margin-w=15&margin-h=15&exclude_repo=PullRequest" /> -->
-<a target="_blank" href="https://github.com/jorneycr?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/jorneycr">
+  <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onestar&no-frame=true&column=6&row=1" width="100%" alt="jorneycr trophy stats" />
+</a>
 
 </div>
 
