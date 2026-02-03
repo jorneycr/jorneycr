@@ -172,7 +172,7 @@ code quality through comprehensive unit and integration tests.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jorneycr&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=jorneycr&theme=onedark&row=2&column=4" alt="Trophies" />
 </p>
 
 ---
