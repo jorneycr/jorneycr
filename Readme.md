@@ -40,6 +40,7 @@ code quality through comprehensive unit and integration tests.
 ---
 
 ## 🎓📚 Skills and Tools
+
 <div align="center">
   <table>
     <thead>
@@ -97,19 +98,21 @@ code quality through comprehensive unit and integration tests.
 
   <table>
     <thead>
-      <tr><th colspan="4">Tools</th></tr>
+      <tr><th colspan="5">Tools</th></tr>
     </thead>
     <tr>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
       <td align="center" width=110><img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/></td>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></td>
     </tr>
     <tr>
       <td align="center">Git</td>
       <td align="center">Docker</td>
       <td align="center">VSCode</td>
       <td align="center">IntelliJ</td>
+      <td align="center">AWS</td>
     </tr>
   </table>
 </div>
