@@ -21,7 +21,8 @@ code quality through comprehensive unit and integration tests.
 
 ---
 
-<div align="center"> **Social and Contact Info.** </div>
+## 📚 Social and Contact Info.
+
 <br>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/jorneycr/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
