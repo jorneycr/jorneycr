@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Hello! I'm Jorney Lopez
 Software Engineer with over 6 years of professional experience building end-user applications and handling large-scale projects.
 Proficient in backend (Java, Spring Framework, Spring Boot, Node.js) and frontend (HTML, CSS, JavaScript, React) technologies.
 Experienced in integrating AI-powered features, including conversational systems using cloud-based LLM APIs and locally
